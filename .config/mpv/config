@@ -1,0 +1,18 @@
+# general
+save-position-on-quit=yes
+fullscreen=no
+#hwdec=vda
+audio-display=no # disable showing album cover
+
+# screenshot
+screenshot-template="%F-%P" # filename-HH:MM:SS.ss.ext
+
+# osd
+osd-border-size=1
+osd-color="#ccffffff"
+osd-border-color="#99000000"
+osd-scale=0.75
+
+# sub
+sub-auto=fuzzy
+sub-codepage=utf8:cp1251
