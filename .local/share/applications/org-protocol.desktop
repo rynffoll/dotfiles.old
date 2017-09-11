@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=org-protocol
+Exec=emacsclient -c -F "((height . 20) (width . 80) (fullscreen . nil))" %u
+Type=Application
+Terminal=false
+Icon=emacs
+Categories=System;
+MimeType=x-scheme-handler/org-protocol;
