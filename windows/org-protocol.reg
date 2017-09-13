@@ -9,4 +9,4 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\org-protocol\shell\open]
 
 [HKEY_CLASSES_ROOT\org-protocol\shell\open\command]
-@="\"c:\\Program Files\\emacs\\bin\\emacsclientw.exe\" -c -F \"((height . 30) (width . 80) (fullscreen . nil))\" \"%1\""
+@="\"c:\\Program Files\\emacs\\bin\\emacsclientw.exe\" -c -F \"((height . 20) (width . 80) (fullscreen . nil) (org-capture . t))\" \"%1\""
