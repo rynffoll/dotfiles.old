@@ -14,8 +14,8 @@ PS1='\[\033[34m\]\w\[\033[1;33m\]$(__git_ps1 " %s")\[\033[00m\]\n$ '
 # history
 PROMPT_COMMAND="history -a; $PROMPT_COMMAND" # store history immediately
 HISTCONTROL=ignoreboth # ignore dups and spaces
-HISTSIZE=1000000
-HISTFILESIZE=1000000
+HISTSIZE=1000
+HISTFILESIZE=100000
 HISTIGNORE='ls:bg:fg:history'
 
 # options
