@@ -1,1 +1,0 @@
-export QTWEBENGINE_DISABLE_SANDBOX=true # see issue https://youtrack.jetbrains.com/oauth?state=%2Fissue%2FALL-2017
